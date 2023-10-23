@@ -1,0 +1,16 @@
+baseURL = 'https://ataraxiawiki.github.io/'
+languageCode = 'en-us'
+title = 'Ataraxia Wiki'
+theme = 'terminal'
+defaultContentLanguage = "en"
+logoText = "Ataraxia"
+logoHomeLink = "/"
+
+[params]
+  contentTypeName = "posts"
+  themeColor = "orange"
+  showMenuItems = 2
+  fullWidthTheme = false
+  centerTheme = false
+
+
