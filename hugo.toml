@@ -1,4 +1,4 @@
-baseURL = 'https://ataraxiawiki.github.io/'
+baseURL = 'https://kaimcbride.github.io/'
 languageCode = 'en-us'
 title = 'Ataraxia Wiki'
 theme = 'terminal'
