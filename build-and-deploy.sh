@@ -16,6 +16,7 @@ git pull
 
 # 2. Rename index.md to _index.md in top level folders
 echo "## Renaming index.md to _index.md in PARA directories"
+[ -f index.md ] && mv index.md _index.md
 [ -f projects/index.md ] && mv projects/index.md projects/_index.md
 [ -f area/index.md ] && mv area/index.md area/_index.md
 [ -f res/index.md ] && mv res/index.md res/_index.md
